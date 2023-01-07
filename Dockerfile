@@ -1,4 +1,4 @@
-FROM ubuntu:20.04
+FROM dockcross/web-wasm
 
 ARG DEBIAN_FRONTEND=noninteractive
 
